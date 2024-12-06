@@ -44,3 +44,10 @@ The **Bank Management System** is a web-based application designed to manage ban
    ```bash
    git clone https://github.com/gabbrenn/bank-management-system.git
    cd bank-management-system
+2. Navigate to the bankmanagement-back directory
+   ```bash
+   cd bankmanagement-back
+3. Build and run the Spring Boot application:
+   ```bash
+   mvn spring-boot:run
+   
