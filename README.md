@@ -82,7 +82,7 @@ This is Folder str
 
 1. 
    ```bash
-bank-management-system/
+   bank-management-system/
 ├── bankmanagement-back/           # Backend (Spring Boot)
 │   ├── src/                      # Java source files
 │   ├── resources/                 # Application resources (e.g., application.properties)
