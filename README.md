@@ -50,4 +50,41 @@ The **Bank Management System** is a web-based application designed to manage ban
 3. Build and run the Spring Boot application:
    ```bash
    mvn spring-boot:run
-   
+4. The backend will be accessible at
+   ```bash
+   http://localhost:8080
+
+### Frontend Setup (React.js):
+
+1. Navigate to the bankmanagement-front directory:
+   ```bash
+   cd bankmanagement-front
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run the React application:
+   ```bash
+   npm start
+4. The frontend will be accessible at
+   ```bash
+   http://localhost:3000
+
+### Usage
+- **Account Search:** Use the search bar to find accounts by account number.
+- **Account Details:**  Displays details such as account number, type, and balance.
+- **Credit Card Display:** Show a simulated credit card with placeholders for account-related details.
+- **Account Update:** Allows users to change their account PIN.
+
+### Folder Structure
+```perl
+   bank-management-system/
+├── bankmanagement-back/           # Backend (Spring Boot)
+│   ├── src/                      # Java source files
+│   ├── resources/                 # Application resources (e.g., application.properties)
+│   └── pom.xml                    # Maven build configuration
+├── bankmanagement-front/          # Frontend (React.js)
+│   ├── public/                    # Public assets
+│   ├── src/                       # React components and assets
+│   └── package.json               # Node.js dependencies and scripts
+└── README.md                      # Project documentation
+
