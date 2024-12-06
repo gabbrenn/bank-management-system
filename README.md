@@ -81,17 +81,17 @@ This is Folder str
 ### Folder Structure:
 
 1. 
-   ```bash
+   ```perl
    bank-management-system/
-├── bankmanagement-back/           # Backend (Spring Boot)
-│   ├── src/                      # Java source files
-│   ├── resources/                 # Application resources (e.g., application.properties)
-│   └── pom.xml                    # Maven build configuration
-├── bankmanagement-front/          # Frontend (React.js)
-│   ├── public/                    # Public assets
-│   ├── src/                       # React components and assets
-│   └── package.json               # Node.js dependencies and scripts
-└── README.md                      # Project documentation
+   ├── bankmanagement-back/           # Backend (Spring Boot)
+   │   ├── src/                      # Java source files
+   │   ├── resources/                 # Application resources (e.g., application.properties)
+   │   └── pom.xml                    # Maven build configuration
+   ├── bankmanagement-front/          # Frontend (React.js)
+   │   ├── public/                    # Public assets
+   │   ├── src/                       # React components and assets
+   │   └── package.json               # Node.js dependencies and scripts
+   └── README.md                      # Project documentation
 
 
 ### Contributing:
