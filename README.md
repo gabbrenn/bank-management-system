@@ -42,5 +42,5 @@ The **Bank Management System** is a web-based application designed to manage ban
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/gabbrenn/bank-management-system.git
    cd bank-management-system
