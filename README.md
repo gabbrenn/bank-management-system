@@ -74,9 +74,7 @@ The **Bank Management System** is a web-based application designed to manage ban
 - **Account Details:**  Displays details such as account number, type, and balance.
 - **Credit Card Display:** Show a simulated credit card with placeholders for account-related details.
 - **Account Update:** Allows users to change their account PIN.
-
-### Folder Structure
-This is Folder str
+- 
 
 ### Folder Structure:
 
@@ -104,10 +102,10 @@ Feel free to fork this repository and make contributions! To contribute:
 5. Create a pull request.
 
 ### License:
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](./LICENSE) .
 
 ### Key Sections to Modify
-- **Repository Link**: Replace `https://github.com/yourusername/bank-management-system.git` with your actual GitHub repository link.
+- **Repository Link**: Replace `https://github.com/gabbrenn/bank-management-system.git` with your actual GitHub repository link.
 - **Contributing**: This section gives basic instructions for contributing to the project.
 - **Folder Structure**: Modify if necessary to reflect the actual structure of your project.
 
