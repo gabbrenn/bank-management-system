@@ -1,0 +1,32 @@
+/* App.css */
+
+.app {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.navbar-container {
+  width: 20%; /* Adjust sidebar width as needed */
+  float: left;
+}
+
+.content {
+  width:100%; /* Adjust content width as needed */
+  padding: 20px;
+  overflow-y: auto; /* Allow scrolling for long content */
+  background-color: #f8f9fa; /* Light background for contrast */
+}
+
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.home-container h1 {
+  color: #343a40; /* Dark text color */
+}
+
+.home-container p {
+  color: #6c757d; /* Subtle text color */
+}

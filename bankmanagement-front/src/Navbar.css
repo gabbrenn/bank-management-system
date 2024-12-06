@@ -1,0 +1,22 @@
+html, body, #root {
+  height: 100%; /* Ensure the root container is full height */
+  margin: 0;
+}
+
+.navbar-container {
+  height: 100vh; /* Full height of the viewport */
+  width: 20%; /* Adjust this if needed for responsiveness */
+  display: flex;
+  flex-direction: column;
+  position: fixed; /* Keep it fixed if it's a sidebar */
+}
+
+.nav-item .nav-link {
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.nav-item .nav-link.active {
+  background-color: #007bff; /* Highlight active link */
+  color: white;
+}
