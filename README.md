@@ -76,8 +76,13 @@ The **Bank Management System** is a web-based application designed to manage ban
 - **Account Update:** Allows users to change their account PIN.
 
 ### Folder Structure
-   ```perl
-      bank-management-system/
+This is Folder str
+
+### Folder Structure:
+
+1. 
+   ```bash
+bank-management-system/
 ├── bankmanagement-back/           # Backend (Spring Boot)
 │   ├── src/                      # Java source files
 │   ├── resources/                 # Application resources (e.g., application.properties)
@@ -89,13 +94,17 @@ The **Bank Management System** is a web-based application designed to manage ban
 └── README.md                      # Project documentation
 
 
-### Contributing
+### Contributing:
 Feel free to fork this repository and make contributions! To contribute:
+
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-name).
 3. Commit your changes (git commit -m 'Add feature').
 4. Push to the branch (git push origin feature-name).
 5. Create a pull request.
+
+### License:
+This project is open-source and available under the MIT License.
 
 ### Key Sections to Modify
 - **Repository Link**: Replace `https://github.com/yourusername/bank-management-system.git` with your actual GitHub repository link.
