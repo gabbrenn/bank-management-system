@@ -74,7 +74,6 @@ The **Bank Management System** is a web-based application designed to manage ban
 - **Account Details:**  Displays details such as account number, type, and balance.
 - **Credit Card Display:** Show a simulated credit card with placeholders for account-related details.
 - **Account Update:** Allows users to change their account PIN.
-- 
 
 ### Folder Structure:
 
